@@ -15,6 +15,7 @@ call neobundle#begin(expand('~/.vim/bundle'))
 NeoBundleFetch 'Shougo/neobundle.vim'
 
 NeoBundle 'Shougo/unite.vim'
+NeoBundle 'Shougo/vimfiler.vim'
 NeoBundle 'scrooloose/nerdtree'
 NeoBundle 'othree/html5.vim'
 NeoBundle 'Lokaltog/vim-powerline'
